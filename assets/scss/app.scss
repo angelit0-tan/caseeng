@@ -9,4 +9,11 @@ body,
   width: 100%;
   height: 100%;
   font-weight: 300;
+  @layer utilities {
+    @apply bg-black;
+  }
 }
+
+// .container {
+//   max-width: 1500px;
+// }

@@ -23,6 +23,8 @@ module.exports = {
         'scorpion-2': '#797979',
         'red': '#f20000',
         'fern': '#5DBB63',
+        'green' : '#008000',
+        'darkgreen' : '#006400',
         'blue': '#0000ff',
       },
       fontFamily: {
@@ -33,15 +35,15 @@ module.exports = {
         arial: ['Arial'],
         calibri: ['Calibri'],
       },
-      container: {
-        screens: {
-          sm: '640px',
-          md: '768px',
-          lg: '960px',
-          xl: '960px',
-          '2xl': '1200px',
-        },
-      },
+      // container: {
+      //   screens: {
+      //     sm: '640px',
+      //     md: '768px',
+      //     lg: '960px',
+      //     xl: '960px',
+      //     '2xl': '1200px',
+      //   },
+      // },
       extend: {
         lineHeight: {
           'inherit': 'inherit',
