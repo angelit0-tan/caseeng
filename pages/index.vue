@@ -4,7 +4,7 @@
         <div>
             <div class="bg-[url('/images/home-bg.jpg')]" style=" background-repeat: no-repeat, repeat; background-size: cover;">
                 <div class="py-40">
-                    <div class="flex flex-col gap-8 justify-center mb-5 items-center">
+                    <div class="flex flex-col gap-10 justify-center mb-10 items-center">
                         <div class="text-white text-4xl font-bold">
                             What Problem Do You Need Solved?
                         </div>
@@ -17,7 +17,7 @@
                             <button class="border border-white px-5 py-3 text-white bg-darkgreen rounded-full"> Core Advisory Areas </button>
                         </div>
                     </div>
-           
+        
                     <RightMenu/>
                 </div>
             </div>

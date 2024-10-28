@@ -1,5 +1,5 @@
 <template>
-    <div class="flex container mx-auto">
+    <div class="flex container mx-auto py-5 items-center">
         <div>
             <img src="/images/logo-small.png"/>
         </div>
