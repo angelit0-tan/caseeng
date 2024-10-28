@@ -28,7 +28,7 @@ module.exports = {
         'blue': '#0000ff',
       },
       fontFamily: {
-        sans: ['DM Sans'],
+        sans: ['InterVariable'],
         body: ['DM Sans'],
         serif: ['Times New Roman'],
         headline: ['League Gothic'],
