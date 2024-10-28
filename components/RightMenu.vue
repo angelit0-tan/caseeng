@@ -1,8 +1,8 @@
 <template>
-    <div class="flex flex-wrap gap-3 justify-center">
+    <div class="flex flex-wrap gap-4 justify-center w-5/6 mx-auto">
         <button
             v-for="menu in menus" :key="menu.link"
-            class="p-2 text-black bg-white rounded-full flex items-center gap-2"> 
+            class="px-4 py-2 text-black bg-white rounded-full flex items-center gap-2"> 
             <img src="/images/add.png"/>
             <span> {{  menu.name }}</span>
         </button>
